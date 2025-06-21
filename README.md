@@ -1,2 +1,1 @@
-# raspi-sense-hat
-# raspi-sense-hat
+# Raspberry Pi Sense HAT
